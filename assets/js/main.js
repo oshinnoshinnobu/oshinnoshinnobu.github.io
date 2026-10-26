@@ -1,4 +1,6 @@
 
+window.location.replace("https://cyberpunkwaifus.xyz/");
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),
